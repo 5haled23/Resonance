@@ -217,10 +217,6 @@ Test voices with custom text before using in training.
 - Clear session history
 - Reset quota tracking
 
-### System
-- **Mock Mode**: Run without real API calls
-- **Debug Logs**: Enable verbose logging
-
 ---
 
 ## 💡 Tips & Best Practices

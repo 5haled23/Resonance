@@ -190,14 +190,14 @@ Conversations are processed in real-time but not permanently recorded unless you
 ## 📞 Support
 
 ### How do I report a bug?
-Open an issue on [GitHub](https://github.com/YOUR_USERNAME/resonance-mobile-app/issues) with:
+Open an issue on [GitHub](https://github.com/REXREUS/resonance/issues) with:
 - Device model
 - Android version
 - Steps to reproduce
 - Screenshots if applicable
 
 ### How do I request a feature?
-Open a feature request on [GitHub](https://github.com/YOUR_USERNAME/resonance-mobile-app/issues) describing your idea.
+Open a feature request on [GitHub](https://github.com/REXREUS/resonance/issues) describing your idea.
 
 ### Is there a community?
 Join discussions on the GitHub repository!

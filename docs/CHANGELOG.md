@@ -90,7 +90,7 @@ First public release of Resonance!
 
 ## How to Update
 
-1. Download the latest APK from [Releases](https://github.com/YOUR_USERNAME/resonance-mobile-app/releases)
+1. Download the latest APK from [Releases](https://github.com/REXREUS/resonancep/releases)
 2. Install over the existing app (data will be preserved)
 3. Or uninstall first for a clean install
 
@@ -98,7 +98,7 @@ First public release of Resonance!
 
 ## Reporting Issues
 
-Found a bug? Please report it on [GitHub Issues](https://github.com/YOUR_USERNAME/resonance-mobile-app/issues) with:
+Found a bug? Please report it on [GitHub Issues](https://github.com/REXREUS/resonance/issues) with:
 - App version
 - Device model
 - Android version

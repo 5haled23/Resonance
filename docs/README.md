@@ -19,5 +19,5 @@ Screenshots are located in the `screenshots/` folder.
 ## 🆘 Need Help?
 
 - Check the [FAQ](./FAQ.md) for common questions
-- Open an [issue](https://github.com/YOUR_USERNAME/resonance-mobile-app/issues) on GitHub
+- Open an [issue](https://github.com/REXREUS/resonance/issues) on GitHub
 - Read the [Troubleshooting](./TROUBLESHOOTING.md) guide

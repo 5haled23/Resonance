@@ -271,7 +271,7 @@ If none of the above solutions work:
    - Screenshots or screen recordings
 
 2. **Report the Issue**:
-   - Open an issue on [GitHub](https://github.com/YOUR_USERNAME/resonance-mobile-app/issues)
+   - Open an issue on [GitHub](https://github.com/REXREUS/resonance/issues)
    - Include all collected information
    - Be as detailed as possible
 

@@ -6,7 +6,7 @@ This guide will help you get up and running with Resonance in just a few minutes
 
 ### Option 1: Download APK (Recommended for Users)
 
-1. Go to [Releases](https://github.com/YOUR_USERNAME/resonance-mobile-app/releases)
+1. Go to [Releases](https://github.com/REXREUS/resonance/releases)
 2. Download the latest `resonance-vX.X.X.apk` file
 3. On your Android device:
    - Go to **Settings > Security**
@@ -24,7 +24,7 @@ This guide will help you get up and running with Resonance in just a few minutes
 - Expo CLI
 
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/resonance-mobile-app.git
+git clone https://github.com/REXREUS/resonance.git
 cd resonance-mobile-app
 
 # Install dependencies
@@ -80,7 +80,7 @@ In Settings, configure:
 
 - [ ] App installed successfully
 - [ ] Onboarding completed
-- [ ] API keys configured (optional)
+- [ ] API keys configured
 - [ ] Language preference set
 - [ ] First training session completed
 
@@ -88,7 +88,7 @@ In Settings, configure:
 
 - Check [Troubleshooting](./TROUBLESHOOTING.md)
 - Read the [FAQ](./FAQ.md)
-- Open an [issue](https://github.com/YOUR_USERNAME/resonance-mobile-app/issues)
+- Open an [issue](https://github.com/REXREUS/resonance/issues)
 
 ---
 

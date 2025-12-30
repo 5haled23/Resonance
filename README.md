@@ -84,14 +84,14 @@ Simulate real-world disruptions to build resilience:
 ### Latest Release
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/resonance-mobile-app/releases/latest">
+  <a href="https://github.com/REXREUS/resonance/releases/latest">
     <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </p>
 
 **Installation Steps:**
 
-1. Download the latest `.apk` file from [Releases](https://github.com/YOUR_USERNAME/resonance-mobile-app/releases)
+1. Download the latest `.apk` file from [Releases](https://github.com/REXREUS/resonance/releases)
 2. Enable "Install from Unknown Sources" in your Android settings
 3. Open the downloaded APK file
 4. Tap "Install"
@@ -125,7 +125,7 @@ Simulate real-world disruptions to build resilience:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/resonance-mobile-app.git
+git clone https://github.com/REXREUS/resonance.git
 cd resonance-mobile-app
 
 # Install dependencies
@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/resonance-mobile-app/issues">Report Bug</a>
+  <a href="https://github.com/REXREUS/resonance-mobile-app/issues">Report Bug</a>
   •
-  <a href="https://github.com/YOUR_USERNAME/resonance-mobile-app/issues">Request Feature</a>
+  <a href="https://github.com/REXREUS/resonance-mobile-app/issues">Request Feature</a>
 </p>
